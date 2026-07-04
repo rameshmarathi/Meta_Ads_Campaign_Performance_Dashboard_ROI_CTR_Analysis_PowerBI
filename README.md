@@ -58,3 +58,12 @@ This project helps in understanding how digital marketing campaigns can be evalu
 ## 📎 Note
 
 This project is created for learning purposes only and does not include any real client or proprietary data. purposes
+
+## 👨‍💻 Author
+
+**Ramesh Marathi**
+
+- 💼 Aspiring Data Analyst
+- 📧 Email: rameshmarathi7765@gmail.com
+- 🔗 LinkedIn: https://linkedin.com/in/ramesh-marathi
+- 💻 GitHub: https://github.com/rameshmarathi
